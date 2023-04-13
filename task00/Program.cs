@@ -3,4 +3,4 @@
 Console.WriteLine ("INPUT NUM");
 int num = Convert.ToInt32(Console.ReadLine());
 int sg = num * num;
-Console.WriteLine ($"квадрат числа -{sg}");
+Console.WriteLine ($"квадрат числа = {num} -{sg}");
